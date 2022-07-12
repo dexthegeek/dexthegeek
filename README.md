@@ -5,7 +5,7 @@
 ### About Me 📌
 
 🔭 I am Dexter ...  
-💻 [HackerRank Profile](https://www.hackerrank.com/imkr_vishal)  
+💻 [HackerRank Profile](https://www.hackerrank.com/imkrvishal)  
 💬 Ask me Anything you want...
 
 ### 📫 How to reach me:  
