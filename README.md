@@ -8,6 +8,10 @@
 💻 [HackerRank Profile](https://www.hackerrank.com/imkrvishal)  
 💬 Ask me Anything you want...
 
+
+### Badges
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+
 ### 📫 How to reach me:  
 
 >  1.  [Discord: krvishal](https://discord.com/users/902583742646845561)  
